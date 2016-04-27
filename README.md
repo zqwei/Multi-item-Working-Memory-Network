@@ -22,14 +22,18 @@ This is the core code to implement the network simulation for multi-item working
 
 ## Fun part I -- tweaking around the network structure parameter
 To tweak around working memory capacity of network, one can change the parameters related to E-E connection. In Wei et al. (J. Neurosci., 2012), I made a substantial change of these parameters on sigma-J+ space (Fig. 3A, Wei et al., J. Neurosci., 2012). The fun part of the outcomes is that one cannot only this as a reference to model a limited number of working memory process, but also use this result as a reference to determine the parameter space where such a ring model would be use for decision making (working memory capacity = 1) for delayed response task (Wei and Wang, J. Neurophysiol., 2015) or other similar task.
+
 ![](parameter_space.png)
 
 ## Fun part II -- working memory is a dynamical process of online holding important information used for the incoming task.
 The network employs a substantial amount of noise, which can result in completely different activity pattern even starting from essentially the identical cues.
 
 For fun, one can simulate the following code for 100 times (where idx from 1 to 100).
+
     www_memory(idx, 5, './', [200 300], 1100, 'c', [61 135 195 301 358])
+    
 You would expect to see simulations with, even dramatically, distinguishable patterns.
+
 ![](Random_inputs_RasterPlotIdx_120.png)
 ![](Random_inputs_RasterPlotIdx_121.png)
 ![](Random_inputs_RasterPlotIdx_125.png)
