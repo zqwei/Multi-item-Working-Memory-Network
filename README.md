@@ -1,4 +1,5 @@
 # Recurrent neural networks for multi-item working memory and its capacity in a delayed-response task
+[![Gitter](https://badges.gitter.im/zqwei/Multi-item-Working-Memory-Network.svg)](https://gitter.im/zqwei/Multi-item-Working-Memory-Network?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Introduction
 
