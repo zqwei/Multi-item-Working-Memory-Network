@@ -1,7 +1,5 @@
 # Recurrent neural networks for multi-item working memory and its capacity in a delayed-response task
 
-[![Join the chat at https://gitter.im/zqwei/Multi-item-Working-Memory-Network](https://badges.gitter.im/zqwei/Multi-item-Working-Memory-Network.svg)](https://gitter.im/zqwei/Multi-item-Working-Memory-Network?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ## Introduction
 
 This is the core code to implement the network simulation for multi-item working memory in delayed response task (Wei et al., J. Neurosci., 2012).
@@ -62,4 +60,4 @@ This code is the product of work carried out with Da-Hui Wang at Beijing Normal 
 Wei Z, Wang X-J, Wang DH (2012), 
 _From distributed resources to limited slots in multiple-item working memory: a spiking network model with normalization._
 J. Neurosci., 32: 11228-11240. 
-[ [PDF] ](http://www.cns.nyu.edu/wanglab/publications/pdf/wei_JNS2012.pdf)
+[ [PDF] ](https://www.researchgate.net/publication/230678521_From_Distributed_Resources_to_Limited_Slots_in_Multiple-Item_Working_Memory_A_Spiking_Network_Model_with_Normalization)
