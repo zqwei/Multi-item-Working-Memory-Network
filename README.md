@@ -1,5 +1,7 @@
 # Recurrent neural networks for multi-item working memory and its capacity in a delayed-response task
 
+[![DOI](https://zenodo.org/badge/57227641.svg)](https://zenodo.org/badge/latestdoi/57227641)
+
 ## Introduction
 
 This is the core code to implement the network simulation for multi-item working memory in delayed response task ([Wei et al., J. Neurosci., 2012](https://www.researchgate.net/publication/230678521_From_Distributed_Resources_to_Limited_Slots_in_Multiple-Item_Working_Memory_A_Spiking_Network_Model_with_Normalization)).
